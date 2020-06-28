@@ -1,6 +1,6 @@
 {
   "name": "react-mobile-style-password-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mobile like password field for React.",
   "main": "lib/index.js",
   "types": "lib",
@@ -17,8 +17,19 @@
     "input",
     "field"
   ],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iluha5/react-mobile-style-password-input"
+  },
+  "author": {
+    "name": "Ilya Rovda",
+    "email": "front.watching@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iluha5/react-mobile-style-password-input/issues"
+  },
+  "homepage": "https://github.com/iluha5/react-mobile-style-password-input#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@types/react": "^16.9.35",

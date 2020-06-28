@@ -2,7 +2,7 @@
 
 Password field with fading letters during input.
 
- ![registration](react-mobile-like-password-input.gif)
+ ![password field example](https://raw.githubusercontent.com/iluha5/react-mobile-style-password-input/master/react-mobile-like-password-input.gif)
 
 ## Installation
 
