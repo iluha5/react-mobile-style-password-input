@@ -1,0 +1,10 @@
+/node_modules
+/lib
+/.idea
+/.vscode
+/.vagrant
+example/public/
+npm-debug.log
+yarn-error.log
+.env
+package-lock.json
